@@ -3,3 +3,6 @@
 *.F90.xml
 *.intfb.h
 *.ok
+*.optrpt
+count*.txt
+*.x
