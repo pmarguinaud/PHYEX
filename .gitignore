@@ -1,0 +1,7 @@
+*.o
+*.optrpt
+*.mod
+*.intfb.h
+*.F90.xml
+*.ok
+*.x
